@@ -14,8 +14,9 @@ echo '<!doctype html>
       <p>We provide cloud training courses to help you learn and master the latest cloud technologies.</p>
       <h2>Featured Courses:</h2>
       <ul>
-         <li>Introduction to Cloud Computing</li>
+         <li>Introduction to Expert Level Azure, AWS , GCP Cloud Computing</li>
          <li>Cloud Infrastructure and Services</li>
+         <li>DEVOPS</li>
          <li>Cloud Security and Compliance</li>
       </ul>
       <p>Sign up for our courses and take the first step towards building your cloud expertise today!</p>
